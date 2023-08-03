@@ -1,2 +1,2 @@
-# PreCourse-Henry
-este es un repositorio de prueba del PreCourse de Henry 
+juan rayo
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde hithub a mi escritorio local 
